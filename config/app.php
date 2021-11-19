@@ -174,8 +174,16 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+<<<<<<< HEAD
         App\Providers\FortifyServiceProvider::class,
         App\Providers\JetstreamServiceProvider::class,
+=======
+<<<<<<< HEAD
+=======
+        App\Providers\FortifyServiceProvider::class,
+        App\Providers\JetstreamServiceProvider::class,
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
 
     ],
 

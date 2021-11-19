@@ -4,7 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "7893730b3e24702aae4bed0c1463fc44",
+=======
+<<<<<<< HEAD
+    "content-hash": "5118447de14879c70d02ac2390021885",
+=======
+    "content-hash": "7893730b3e24702aae4bed0c1463fc44",
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2029,6 +2037,11 @@
             "time": "2021-09-25T08:23:19+00:00"
         },
         {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
             "name": "livewire/livewire",
             "version": "v2.7.2",
             "source": {
@@ -2101,6 +2114,10 @@
             "time": "2021-10-20T02:27:35+00:00"
         },
         {
+<<<<<<< HEAD
+=======
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
             "name": "mobiledetect/mobiledetectlib",
             "version": "2.8.37",
             "source": {

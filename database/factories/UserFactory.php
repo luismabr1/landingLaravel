@@ -2,15 +2,33 @@
 
 namespace Database\Factories;
 
+<<<<<<< HEAD
 use App\Models\Team;
 use App\Models\User;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
 use Laravel\Jetstream\Features;
+=======
+<<<<<<< HEAD
+use Illuminate\Database\Eloquent\Factories\Factory;
+use Illuminate\Support\Str;
+=======
+use App\Models\Team;
+use App\Models\User;
+use Illuminate\Database\Eloquent\Factories\Factory;
+use Illuminate\Support\Str;
+use Laravel\Jetstream\Features;
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
 
 class UserFactory extends Factory
 {
     /**
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
      * The name of the factory's corresponding model.
      *
      * @var string
@@ -18,6 +36,10 @@ class UserFactory extends Factory
     protected $model = User::class;
 
     /**
+<<<<<<< HEAD
+=======
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
      * Define the model's default state.
      *
      * @return array
@@ -46,6 +68,11 @@ class UserFactory extends Factory
             ];
         });
     }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
 
     /**
      * Indicate that the user should have a personal team.
@@ -66,4 +93,8 @@ class UserFactory extends Factory
             'ownedTeams'
         );
     }
+<<<<<<< HEAD
+=======
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
 }

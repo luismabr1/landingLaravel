@@ -16,7 +16,16 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
+<<<<<<< HEAD
+=======
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1

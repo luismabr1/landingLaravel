@@ -13,10 +13,24 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
     .postCss('resources/css/app.css', 'public/css', [
+<<<<<<< HEAD
         require('postcss-import'),
         require('tailwindcss'),
     ]);
+=======
+<<<<<<< HEAD
+        //
+    ]);
+=======
+        require('postcss-import'),
+        require('tailwindcss'),
+    ]);
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
 
 if (mix.inProduction()) {
     mix.version();
 }
+<<<<<<< HEAD
+=======
+>>>>>>> pruebas
+>>>>>>> 789919b299d9bb64c87434613a9466ad7de747e1
